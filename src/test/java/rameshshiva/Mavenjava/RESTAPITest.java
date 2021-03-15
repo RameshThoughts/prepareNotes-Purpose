@@ -34,6 +34,7 @@ public class RESTAPITest {
 		System.out.println("RESTAPITest3");
 		System.out.println("RESTAPITest4");
 		System.out.println("RESTAPITest5");
+		System.out.println("RESTAPITest6");
 		
 		
 	}
